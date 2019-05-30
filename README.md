@@ -4,6 +4,6 @@ This repository is for showing how Git and GitHub work together.
 
 ## Purpose
 
-Yahhhhhhhh
+This is example to show different parts of the Git repo and various commands.
 
 ## Deployment
