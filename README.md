@@ -10,11 +10,6 @@ This is example to show different parts of the Git repo and various commands.
 
 Even more text!
 
-###Level 3 Header 
+##Copyright
 
-
-#I am COMMITING this
-
-#I am just STAGING this
-
-#workspace only
+2019
