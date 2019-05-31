@@ -1,1 +1,4 @@
 I am typing this in the workspace. I then staged then committed.
+
+
+I am just going to stage this
