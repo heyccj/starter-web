@@ -14,3 +14,7 @@ Even more text!
 
 
 #I am COMMITING this
+
+#I am just STAGING this
+
+#workspace only
